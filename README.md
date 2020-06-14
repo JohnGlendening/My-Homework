@@ -1,6 +1,3 @@
 # My-Homework
 My homework
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-!
+Attempted to clean up code for the marketing agency so that their codebase follows accessibility standards that make the site optimized for search engines.
